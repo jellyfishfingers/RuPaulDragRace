@@ -1,1 +1,3 @@
-Database Diagram for capturing RuPaul Drag Race Information
+# RuPaul Drag Race Database Design
+
+![Diagram](images/DatabaseDiagram20251218.png)
